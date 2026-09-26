@@ -4,17 +4,6 @@
 🎓 **BEng (Hons) in Software Engineering - London Metropolitan University (Reading)** <br>
 🎓 **HD in Computing and Software Engineering - Cardiff Metropolitan University** 
 
-## 🛠️ Projects
-
-- **Workout Planner App (Flutter)**  
-  - Categorized workouts (Warmup, Stretching, Exercise, Equipment)  
-  - Features: Favorites, progress tracking, calorie burn visualization  
-  - Tech stack: Flutter, Google Fonts, intl package, stateful/stateless widgets  
-
-- **AI/ML Coursework Projects**  
-  - Machine learning models for text classification and computer vision tasks  
-  - Focused on Python ML libraries and TensorFlow
-
 ---
 
 ## 🚀 Skills
@@ -72,13 +61,3 @@
 - Meta AI
 
 ---
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/) *(Add your profile link)*  
-- [GitHub](https://github.com/yourusername)  
-- Email: your.email@example.com  
-
----
-
-✨ *I thrive on clear communication, creative problem‑solving, and building reliable, user‑friendly software products.*
